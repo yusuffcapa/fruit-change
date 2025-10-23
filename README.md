@@ -1,7 +1,5 @@
 # 🍓 Fruit Change
 
-![Fruit Change Banner](Images/banner.png)
-
 **Tür:** 2D Endless Runner  
 **Motor:** Unity 6000.0.44f1  
 **Platform:** Android  

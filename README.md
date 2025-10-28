@@ -16,4 +16,4 @@ Zaman geçtikçe meyveler daha hızlı düşer — reflekslerini test et! 🍎�
 
 ## 🖥️ Ekran Görüntüsü
 
-> ![Fruit Change](https://github.com/yusuffcapa/fruit-change/blob/36f0081656dac040a793e9be7ae024f031f11427/Fruit%20PNG.png)
+> ![Fruit Change](https://github.com/yusuffcapa/fruit-change/blob/eeba9823b1b1f5d5e1a4babe50d9e387552d3cc8/MobileGameMockup.png)
